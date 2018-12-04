@@ -1,0 +1,113 @@
+.entete{
+    margin: 0 auto;
+    width: 30%;
+}
+.entete h6{
+    text-align: center;
+    color: brown;
+}
+.entete h1{
+    text-align: center;
+}
+.entete nav{
+    text-align: center;
+}
+.entete a{
+    color: black;
+}
+.entete a:hover{
+    color: bisque;
+}
+.entete nav p{
+    display: inline-block;
+}
+.mj{
+    margin: 0 auto;
+    width: 60%;
+    height: 493px;
+    margin-right: 305px ;
+}
+.mj img{
+    float: left;
+}
+.mj article{
+    float: left;
+    /* margin: 12%; */
+   width: 35%;
+   position: relative;
+   top: 38%;
+   
+}
+.mj p{
+  text-align: right;
+}
+.salle{
+    height: 520px;
+    width: 55%;
+    margin: 0 auto;
+    background: rgb(248, 248, 248);
+}
+.texte{
+    width: 50%;
+    padding-top: 15%;
+    float: left;
+}
+.salle img{
+    margin-left: 4px;
+}
+.note{
+    background: rgb(26, 25, 25);
+    width: 35%;
+    color: white;
+}
+.blanc{
+    color: white;
+}
+/* .gris{
+    color: rgb(85, 85, 85);
+} */
+.service{
+    width: 55%;
+    margin: 0 auto;
+}
+.texte2{
+    width: 50%;
+    padding-top: 15%;
+    float: right;
+}
+.dressage{
+    width: 55%;
+    margin: 0 auto;
+}
+.texte3{
+    width: 50%;
+    padding-top: 15%;
+    float: left;
+}
+.gout{
+    width: 55%;
+    margin: 0 auto;
+}
+.texte4{
+    width: 50%;
+    padding-top: 15%;
+    float: right;
+}
+footer{
+    margin: 0 auto;
+    width: 30%;
+    margin-top: 70px;
+    height: 500px;
+}
+footer img{
+    margin-left: 34%;
+}
+footer h1{
+    text-align: center;
+}
+footer p{
+    text-align: center;
+}
+.droite{
+    margin-right: 10px;
+}
